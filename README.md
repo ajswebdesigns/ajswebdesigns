@@ -21,8 +21,8 @@ Currently, I'm expanding my knowledge in front end JS Frameworks
 
 ### 📩 Get in touch:
 
-- 💼 [Portfolio](https://ajswebdesigns.com)
-- 📧 Email: andrew@ajswebdesigns.com
+- 💼 [Portfolio](https://codecrafteddigital.com/)
+- 📧 Email: andrew@codecrafteddigital.com
 
 Feel free to connect with me for collaborations, projects, or just a chat. Looking forward to innovating together!
 
